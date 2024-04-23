@@ -1,5 +1,6 @@
 #View UI
-![Uploading image.png…]()
+![image](https://github.com/sarazenelaj/React-Quizz/assets/88828484/0a072d52-507c-4ed2-bcdc-2f63d70fc916)
+
 
 
 # Getting Started with Create React App
